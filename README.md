@@ -2,7 +2,7 @@
 Shell Script for Linux/Unix that gets current MLB standings and scoreboard for any given date
 
 ## Resources ##
-Uses CBS to get MLB scoreboard for a given date and https://erikberg.com/mlb/standings.xml xml feed to get current league standings. 
+Uses CBS to get MLB scoreboard for a given date and https://erikberg.com/mlb/standings.xml xml feed to get current league standings. Leaders in batting and pitching statistics are crawled from https://www.teamrankings.com/mlb/player-stat/
 
 ## Instructions ##
 Clone/download this repo and run ```sh mlb.sh``` on the command line
